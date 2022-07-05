@@ -1,0 +1,109 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+#underline-remove {
+    text-decoration: none;
+    border-radius: 5px;
+    padding: 5px 10px;
+    background-image: linear-gradient(orange, tomato);
+    color: azure;
+}
+
+.flex {
+    display: flex;
+    background-image: url(images/b2.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 130%;
+}
+
+.text-1 {
+    width: 60%;
+    padding-left: 8%;
+    padding-bottom: 8%;
+}
+
+.text-1 img {
+    width: 90%;
+    padding-top: 10%;
+}
+
+.span {
+    color: brown;
+}
+
+#welcome {
+    text-align: center;
+    font-size: 90px;
+}
+
+.blog-2 {
+    text-align: center;
+    background-image: url(images/bg.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 130%;
+    margin: 10px 5px;
+
+}
+
+.box-1 {
+    box-shadow: 10px 10px 40px gray;
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    background-image: url(images/o.jpg);
+    border-left: 10px solid blue;
+    border-right: 10px solid black;
+    text-decoration: none;
+    border-radius: 5px;
+    padding: 5px 10px;
+    color: rgb(1, 19, 19);
+}
+
+.box-2 {
+    box-shadow: 10px 10px 40px gray;
+    width: 40%;
+    background: seashell;
+    margin-left: 5%;
+    margin-right: 5%;
+    background-image: url(images/o.jpg);
+    border-left: 10px solid purple;
+    border-right: 10px solid skyblue;
+    text-decoration: none;
+    border-radius: 5px;
+    padding: 5px 10px;
+    color: orangered;
+}
+
+.box-3 {
+    box-shadow: 10px 10px 40px gray;
+    background: blanchedalmond;
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    background-image: url(images/o.jpg);
+    border-left: 10px solid red;
+    border-right: 10px solid orange;
+    text-decoration: none;
+    border-radius: 5px;
+    padding: 5px 10px;
+    color: rgb(3, 19, 19);
+}
+
+.fix {
+    margin-top: 20%;
+    margin-bottom: 10%;
+}
+
+.web {
+
+    padding-left: 5%;
+    padding-bottom: 8%;
+}
